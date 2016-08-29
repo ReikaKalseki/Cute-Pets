@@ -1,0 +1,9 @@
+{
+  "name" : "dragonhead",
+  "category" : "dragon_crystal",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "dragonhead.png"
+  }
+}

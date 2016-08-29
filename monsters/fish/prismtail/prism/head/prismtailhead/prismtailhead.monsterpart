@@ -1,0 +1,9 @@
+{
+  "name" : "prismtailhead",
+  "category" : "prismtail_prism",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "prismtailhead.png"
+  }
+}

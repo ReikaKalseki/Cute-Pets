@@ -1,0 +1,9 @@
+{
+  "name" : "dragonbody",
+  "category" : "dragon_crystal",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "dragonbody.png"
+  }
+}

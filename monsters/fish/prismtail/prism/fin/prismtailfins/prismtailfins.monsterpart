@@ -1,0 +1,10 @@
+{
+  "name" : "prismtailfin",
+  "category" : "prismtail_prism",
+  "type" : "fin",
+
+  "frames" : {
+    "backfin" : "largecoelacanthbfin.png",
+    "frontfin" : "largecoelacanthffin.png"
+  }
+}

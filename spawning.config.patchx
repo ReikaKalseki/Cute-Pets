@@ -1,0 +1,3 @@
+[
+{ "op" : "add", "path" : "/spawnGroups/-", "value" : {"derrick" : [[1.00, "derrick"]]} }
+]

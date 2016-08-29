@@ -1,0 +1,9 @@
+{
+  "name" : "goldenbackchest",
+  "category" : "goldenback_bulb",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "largebulbchest.png"
+  }
+}

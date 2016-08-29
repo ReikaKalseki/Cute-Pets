@@ -1,0 +1,10 @@
+{
+  "name" : "dragonwings",
+  "category" : "dragon_crystal",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "largedragonbwing.png",
+    "frontWings" : "largedragonfwing.png"
+  }
+}

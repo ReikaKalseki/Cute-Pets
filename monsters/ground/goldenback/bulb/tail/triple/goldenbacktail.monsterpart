@@ -1,0 +1,9 @@
+{
+  "name" : "goldenbacktail",
+  "category" : "goldenback_bulb",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largetripletail.png"
+  }
+}

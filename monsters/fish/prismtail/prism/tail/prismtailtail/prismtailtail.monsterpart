@@ -1,0 +1,9 @@
+{
+  "name" : "prismtailtail",
+  "category" : "prismtail_prism",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "prismtailtail.png"
+  }
+}
