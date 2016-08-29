@@ -1,7 +1,7 @@
 {
-  "author" : "Alnitak",
-  "description" : "derrick",
-  "friendlyName" : "derrick",
+  "author" : "Reika",
+  "description" : "Adds a few more unique creatures (variations on some procedural creatures) designed for being pets.",
+  "friendlyName" : "CutePets",
   "requires" : [],
   "version" : "2.0"
 }
